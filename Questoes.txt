@@ -1,0 +1,33 @@
+1- O QUE É UM REPOSITÓRIO NO GIT E SUA IMPORTANCIA?
+É um local no qual os arquivos do projetos são armazenados, ele permite fazer alteração nos códigos.
+
+2- QUAL A FUNÇÃO DO GIT BASH?
+O git bash é um terminal que permite utilizar comandos Git só que no windows, ele facilita a execução de comandos como: commit, push e pull.
+
+3- O QUE FAZ O COMANDO ADD E QUAL A DIFERENÇA ENTRE ADD <ARQUIVO> E GIT ADD .
+o git add <arquivo> é utilizado para adicionar um arquivo esepecífico, já o git add . serve para adicionar todas as modificações feitas no arquivo para o novo diretório
+
+4- POR QUE UTILIZAMOS O PONTO (.) NO COMANDO GIT ADD?
+o ponto serve para simbolizar a adição de todos os arquivos no stage .
+
+5- EXPLIQUE O COMANDO GIT COMMIT E O POR QUE É IMPORTANTE CRIAR UMA MENSAGEM DESCRITIVA.
+ele serve para salvarmos o histórico de alterações feitas no git, então todas as mensagens devem ser descritivas pois relatam todas as ações que foram feitas na modificação.
+
+6- QUAL A FUNÇÃO DO COMANDO GIT PUSH?
+o git push envia os commits locais para o repositório local, permitindo que os outros usuarios tenham acessos as alterações.
+
+7- QUAL A IMPORTANCIA DE CRIAR COMMITS FREQUENTES DURANTE OS DESENVOLVIMENTO DO PROJETO?
+o git commit registra todas as alterações feitas, servindo como histórico então, ele nos ajuda a ver o detalhamento do projeto, cada passo e cada modificação feita.
+
+8- EXPLIQUE A FUNÇÃO DAS TAGS HTML E COMO ELAS ESTRUTURAM UMA PÁGINA.
+as tags HTML organizam elementos da visualização da página, como titulo, imagens links. todos eles são denominados pelo HTML.
+
+9- O QUE SÃO ATRIBUTOS EM UMA TAG HTML E COMO ELAS ESTRUTURAM UMA PÁGINA.
+os atributos são informações que colocamos dentro das tags HTML, por exemplo quando colocamos um link há o atributo href trazendo essa informação.
+
+10- O QUE É EMMET E COMO ELE FACILITA O DESENVOLVIMENTO DE PÁGINAS HTML?
+são atalhos para criação rápida de códigos.
+
+11- O QUE É BOX-SIZING NO CSS E POR QUE USAMOS ELE NO RESET INICIAL?
+
+
